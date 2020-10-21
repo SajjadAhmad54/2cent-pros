@@ -190,10 +190,11 @@ body
  {
     .sec-logo img
      {
-     height:199px;
+         display: none;
+     /* height:199px;
      width: 320px;
      position: relative;
-     top: 0px;
+     top: 0px; */
      }
  }
  @media (min-width:768px) and (max-width:1020px)
